@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 Pursuing **M.Sc. in Statistics**  
+🎓 Completed **M.Sc. in Statistics**  
 📊 Interested in **Data Analytics, Machine Learning & Clinical Data Analysis**  
 📈 Working on **Mutual Fund & Predictive Modeling Projects**  
 💡 Skilled in **Python, R, SQL, Power BI & Statistical Analysis**  

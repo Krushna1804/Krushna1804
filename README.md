@@ -14,9 +14,10 @@
 ## 🚀 About Me
 
 🎓 Completed **M.Sc. in Statistics**  
-📊 Interested in **Data Analytics, Machine Learning & Clinical Data Analysis**  
+📊 Interested in **Data Analyst, Machine Learning & Clinical Data Analysis**  
 📈 Working on **Mutual Fund & Predictive Modeling Projects**  
-💡 Skilled in **Python, R, SQL, Power BI & Statistical Analysis**  
+💡 Skilled in **Python, R, MYSQL, Power BI & Statistical Analysis**  
+💡 Libraries  **Pandas, NumPy, Scikit-learn, Scipy, Seaborn, Matplotlib, ggplot2, plotly, Statsmodels**
 🌱 Currently learning **Advanced Machine Learning & SAS Programming**
 
 ---

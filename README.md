@@ -6,18 +6,17 @@
 <h3 align="center">M.Sc. Statistics Student | Data Analyst | Statistical Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Machine+Learning+Learner;SQL+%7C+Python+%7C+R+Programmer;Clinical+Data+Analysis;Future+Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BLUE&size=25&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Machine+Learning+Learner;SQL+%7C+Python+%7C+R+Programmer;Clinical+Data+Analysis;Future+Data+Scientist" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
 🎓 Completed **M.Sc. in Statistics**  
 📊 Interested in **Data Analyst, Machine Learning & Clinical Data Analysis**  
 📈 Working on **Mutual Fund & Predictive Modeling Projects**  
 💡 Skilled in **Python, R, MYSQL, Power BI & Statistical Analysis**  
-💡 Libraries  **Pandas, NumPy, Scikit-learn, Scipy, Seaborn, Matplotlib, ggplot2, plotly, Statsmodels**
+💡 Libraries **Pandas, NumPy, Scikit-learn, Scipy, Seaborn, Matplotlib, ggplot2, plotly, Statsmodels**
 🌱 Currently learning **Advanced Machine Learning & SAS Programming**
 
 ---
